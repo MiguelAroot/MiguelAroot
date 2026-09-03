@@ -19,30 +19,7 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 ## Languages & Technologies
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" alt="Java"><br>
-  <sub><b>Java</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" width="48" alt="Python"><br>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48" width="48" alt="SQLite"><br>
-  <sub><b>SQLite</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48" width="48" alt="Flask"><br>
-  <sub><b>Flask</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" height="48" width="48" alt="Processing"><br>
-  <sub><b>Processing</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
 <br><br>
 
