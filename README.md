@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,50:8862C6,100:B185DB&height=180&section=header&text=Miguel%20Augusto&fontSize=48&fontColor=ffffff&fontAlignY=35" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8862C6&center=true&vCenter=true&width=500&lines=Software+Development+Student;Coltec;Building+with+Python%2C+Flask+%26+SQLite"> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,50:8862C6,100:B185DB&height=180&section=header&text=Miguel%20Augusto&fontSize=48&fontColor=ffffff&fontAlignY=35" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8862C6&center=true&vCenter=true&width=500&lines=Software+Development+Student;COLTEC;Building+with+Python%2C+Flask+%26+SQLite"> </div>
 
 <img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
 
