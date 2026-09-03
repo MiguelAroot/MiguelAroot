@@ -32,13 +32,13 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <br>
 
-<h3 align="center">Most Used Languages</h3>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
 
-<br><br>
+<br>
 
-<h3 align="center">GitHub Stats</h3>
+---
+
+<br>
 
 <img src="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000" alt="GitHub Stats">
 
