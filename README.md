@@ -1,26 +1,55 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,50:8862C6,100:B185DB&height=180&section=header&text=Miguel%20Augusto&fontSize=48&fontColor=ffffff&fontAlignY=35" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8862C6&center=true&vCenter=true&width=500&lines=Software+Development+Student;COLTEC;Building+with+Python%2C+Flask+%26+SQLite"> </div>
+<div align="center">
 
-<img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,50:8862C6,100:B185DB&height=180&section=header&text=Miguel%20Augusto&fontSize=48&fontColor=ffffff&fontAlignY=35" width="100%">
 
-Just a Software Development student at Coltec. This is where I share the projects
-I build for school and the personal ones I work on in my free time, mostly
-back-end systems connecting Flask, SQL databases and simple front-ends.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8862C6&center=true&vCenter=true&width=500&lines=Software+Development+Student;COLTEC;Building+with+Python%2C+Flask+%26+SQLite">
 
 <br>
 
-### Languages & Technologies
-
-<img align="center" alt="Java" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
-<img align="center" alt="Python" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
-<img align="center" alt="SQLite" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">&nbsp;&nbsp;
-<img align="center" alt="Flask" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;
-<img align="center" alt="Processing" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
+<img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
 
 <br><br>
 
-### Most Used Languages
+<p align="center" width="600">
+  Just a Software Development student at Coltec. This is where I share the projects
+  I build for school and the personal ones I work on in my free time, mostly
+  back-end systems connecting Flask, SQL databases and simple front-ends.
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
+<br>
+
+## Languages & Technologies
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" alt="Java"><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" width="48" alt="Python"><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48" width="48" alt="SQLite"><br>
+      <sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48" width="48" alt="Flask"><br>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" height="48" width="48" alt="Processing"><br>
+      <sub><b>Processing</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
 
 <sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">this guide</a>.</sub>
 
