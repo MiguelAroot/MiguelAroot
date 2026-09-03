@@ -15,9 +15,15 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <br>
 
+<a href="https://github.com/MiguelAroot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/ollie.sub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:miguelaugusto1645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br><br>
+
 <div align="center">
 
-## Languages & Technologies
+**Languages & Technologies**
 
 <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
@@ -28,11 +34,5 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
 
 <sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">this guide</a>.</sub>
-
-<br><br>
-
-<a href="https://github.com/MiguelAroot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.instagram.com/ollie.sub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:miguelaugusto1645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
