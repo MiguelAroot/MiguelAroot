@@ -28,13 +28,13 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <div align="center">
 
-<h2 align="center" style="border-bottom: none;">Languages & Technologies</h2>
+<h3 align="center">Languages & Technologies</h3>
 
 <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
 <br><br>
 
-## Most Used Languages
+<h3 align="center">Most Used Languages</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
 
