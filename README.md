@@ -30,12 +30,20 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
-<br><br>
+<br>
 
 <h3 align="center">Most Used Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
 
-<sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">this guide</a>.</sub>
+<sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/stats-organization/github-stats-extended/blob/master/docs/deploy.md">this guide</a>.</sub>
+
+<br><br>
+
+<h3 align="center">GitHub Stats</h3>
+
+<img src="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000" alt="GitHub Stats">
+
+<sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/stats-organization/github-stats-extended/blob/master/docs/deploy.md">this guide</a>.</sub>
 
 </div>
