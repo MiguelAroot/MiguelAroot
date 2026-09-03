@@ -28,11 +28,19 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <h3 align="center">Languages & Technologies</h3>
 
-<img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
+</picture>
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=default&hide_border=true&langs_count=8&title_color=8862C6&text_color=333333&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
+</picture>
 
 <br>
 
@@ -40,6 +48,10 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000" alt="GitHub Stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=default&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=333333&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000" alt="GitHub Stats">
+</picture>
 
 </div>
