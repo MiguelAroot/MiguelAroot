@@ -1,14 +1,11 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,50:8862C6,100:B185DB&height=180&section=header&text=Miguel%20Augusto&fontSize=48&fontColor=ffffff&fontAlignY=35" width="100%">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8862C6&center=true&vCenter=true&width=500&lines=Software+Development+Student;COLTEC;Building+with+Python%2C+Flask+%26+SQLite">
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
-
-</div>
+![Software Development Student](https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square)
 
 <br>
 
@@ -22,26 +19,30 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 ## Languages & Technologies
 
-<div style="display:inline-block; text-align:center; margin: 0 18px;">
+<table>
+<tr>
+<td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" alt="Java"><br>
   <sub><b>Java</b></sub>
-</div>
-<div style="display:inline-block; text-align:center; margin: 0 18px;">
+</td>
+<td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" width="48" alt="Python"><br>
   <sub><b>Python</b></sub>
-</div>
-<div style="display:inline-block; text-align:center; margin: 0 18px;">
+</td>
+<td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48" width="48" alt="SQLite"><br>
   <sub><b>SQLite</b></sub>
-</div>
-<div style="display:inline-block; text-align:center; margin: 0 18px;">
+</td>
+<td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48" width="48" alt="Flask"><br>
   <sub><b>Flask</b></sub>
-</div>
-<div style="display:inline-block; text-align:center; margin: 0 18px;">
+</td>
+<td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" height="48" width="48" alt="Processing"><br>
   <sub><b>Processing</b></sub>
-</div>
+</td>
+</tr>
+</table>
 
 <br><br>
 
