@@ -8,44 +8,42 @@
 
 <img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
 
-<br><br>
-
-<p>
-  Just a Software Development student at Coltec. This is where I share the projects
-  I build for school and the personal ones I work on in my free time, mostly
-  back-end systems connecting Flask, SQL databases and simple front-ends.
-</p>
+</div>
 
 <br>
+
+Just a Software Development student at Coltec. This is where I share the projects
+I build for school and the personal ones I work on in my free time, mostly
+back-end systems connecting Flask, SQL databases and simple front-ends.
+
+<br>
+
+<div align="center">
 
 ## Languages & Technologies
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" alt="Java"><br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" width="48" alt="Python"><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48" width="48" alt="SQLite"><br>
-      <sub><b>SQLite</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48" width="48" alt="Flask"><br>
-      <sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" height="48" width="48" alt="Processing"><br>
-      <sub><b>Processing</b></sub>
-    </td>
-  </tr>
-</table>
+<div style="display:inline-block; text-align:center; margin: 0 18px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" alt="Java"><br>
+  <sub><b>Java</b></sub>
+</div>
+<div style="display:inline-block; text-align:center; margin: 0 18px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" width="48" alt="Python"><br>
+  <sub><b>Python</b></sub>
+</div>
+<div style="display:inline-block; text-align:center; margin: 0 18px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48" width="48" alt="SQLite"><br>
+  <sub><b>SQLite</b></sub>
+</div>
+<div style="display:inline-block; text-align:center; margin: 0 18px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48" width="48" alt="Flask"><br>
+  <sub><b>Flask</b></sub>
+</div>
+<div style="display:inline-block; text-align:center; margin: 0 18px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" height="48" width="48" alt="Processing"><br>
+  <sub><b>Processing</b></sub>
+</div>
 
-<br>
+<br><br>
 
 ## Most Used Languages
 
