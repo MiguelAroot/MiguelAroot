@@ -28,7 +28,7 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <div align="center">
 
-**🤖 Languages & Technologies**
+**Languages & Technologies**
 
 <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
