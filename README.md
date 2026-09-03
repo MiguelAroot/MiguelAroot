@@ -1,6 +1,4 @@
-<div align="center">
-
-# Miguel Augusto
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=180&section=header&text=Miguel%20Augusto&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%"> </div>
 
 <img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
 
