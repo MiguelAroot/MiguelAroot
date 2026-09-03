@@ -15,15 +15,23 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/MiguelAroot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/ollie.sub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:miguelaugusto1645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br><br>
+</div>
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
 
-**Languages & Technologies**
+**🤖 Languages & Technologies**
 
 <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
