@@ -10,7 +10,7 @@
 
 <br><br>
 
-<p align="center" width="600">
+<p>
   Just a Software Development student at Coltec. This is where I share the projects
   I build for school and the personal ones I work on in my free time, mostly
   back-end systems connecting Flask, SQL databases and simple front-ends.
