@@ -2,8 +2,8 @@
 
 <img src="https://img.shields.io/badge/-Software%20Development%20Student-333333?style=flat-square">
 
-I'm a Software Development student at Coltec. This is where I share the projects
-I build for school and the personal ones I work on in my free time — mostly
+Just a Software Development student at Coltec. This is where I share the projects
+I build for school and the personal ones I work on in my free time, mostly
 back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <br>
