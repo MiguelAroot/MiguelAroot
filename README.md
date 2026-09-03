@@ -27,6 +27,8 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 ---
 
+<br>
+
 <div align="center">
 
 **🤖 Languages & Technologies**
