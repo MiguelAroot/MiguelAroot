@@ -28,30 +28,22 @@ back-end systems connecting Flask, SQL databases and simple front-ends.
 
 <h3 align="center">Languages & Technologies</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=light">
-  <img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
-</picture>
+<img src="https://skillicons.dev/icons?i=java,py,sqlite,flask,processing&theme=dark" alt="Java, Python, SQLite, Flask, Processing" />
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=default&hide_border=true&langs_count=8&title_color=8862C6&text_color=333333&bg_color=00000000">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
-</picture>
+<h3 align="center">Most Used Languages</h3>
 
-<br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAroot&theme=dark&hide_border=true&langs_count=8&title_color=8862C6&text_color=ffffff&bg_color=00000000" alt="Top Languages">
 
----
+<sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/stats-organization/github-stats-extended/blob/master/docs/deploy.md">this guide</a>.</sub>
 
-<br>
+<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=default&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=333333&bg_color=00000000">
-  <img src="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000" alt="GitHub Stats">
-</picture>
+<h3 align="center">GitHub Stats</h3>
+
+<img src="https://github-stats-extended.vercel.app/api?username=MiguelAroot&show_icons=true&theme=dark&hide_border=true&title_color=8862C6&icon_color=8862C6&text_color=ffffff&bg_color=00000000" alt="GitHub Stats">
+
+<sub>If the card above doesn't load, the public API may be temporarily down — you can deploy your own instance following <a href="https://github.com/stats-organization/github-stats-extended/blob/master/docs/deploy.md">this guide</a>.</sub>
 
 </div>
